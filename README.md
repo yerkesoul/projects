@@ -1,18 +1,1 @@
-# Projects
 
-## Assessment of Map Navigation and Spatial Reasoning Abilities of Large Language Models
-**Master Thesis – Potsdam, Germany**  
-**July 2024**
-
-- **Development of 5 map traversal games with Python**
-- **Integration into a conference submission**
-- **Testing 15 large language models with API calls** (including GPT-4, Llama-3, Claude-3, etc.)
-- **Qualitative and quantitative data analysis** [clembench](https://github.com/yerkesoul/clembench)
-
-## Environmental Agenda Detection
-**Individual Research – Potsdam, Germany**  
-**September 2023**
-
-- **Building text classification models using political data from the Manifesto Corpus**
-- **Detailed corpus data analysis and data visualization**
-- **Developing one-step and two-step classification** with BERT, RoBERTa, and XLM-RoBERTa models
